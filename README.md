@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img alt="Mobile 1" src="https://raw.githubusercontent.com/jeffersonbraga90/ignite-challenge02-coffee-delivery/src/assets/preview/Coffee-Delivery.gif" width="800px" />
+  <img alt="Mobile 1" src="src/assets/preview/Coffee-Delivery.gif" width="800px" />
 </p>
 
 ---
